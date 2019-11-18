@@ -1,16 +1,19 @@
 <template>
   <div id="app">
-      <data-structure></data-structure>
+      <!-- <data-structure></data-structure> -->
+      <swipe></swipe>
   </div>
 </template>
 
 <script>
 import DataStructure from './pages/data-structure.vue'
+import Swipe from './components/swipe/swipe'
 
 export default {
   name: 'app',
   components: {
-    DataStructure
+    DataStructure,
+    Swipe
   }
 }
 </script>
