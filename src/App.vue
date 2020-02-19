@@ -1,7 +1,7 @@
 <template>
   <div id="app">
       <!-- <data-structure></data-structure> -->
-      <swipe></swipe>
+      <!-- <swipe></swipe> -->
   </div>
 </template>
 
